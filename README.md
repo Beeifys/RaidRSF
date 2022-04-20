@@ -5,6 +5,9 @@ Random Shell Scanner
 - Do not selling this free rsf tools
 - Better use this tool on VPS/RDP
 
+# VC Redist (optional)
+- Download(https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
+
 # PROS
 - Support big site-list maybe
 - Low cpu usage (Friendly cpu usage)
