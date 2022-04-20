@@ -13,6 +13,10 @@ Random Shell Scanner
 # CONS
 - Maybe has some bug because this is a first release
 
+# HOW TO USE?
+- Just fill up/settings ur own HQ config on config.txt
+- Replace ur sites list file to sites.txt
+
 # SUGGESTION
 - If u want suggestion for new update for this tools you can join our telegram channel: @raid_store
 
