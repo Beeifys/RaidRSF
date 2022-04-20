@@ -6,7 +6,7 @@ Random Shell Scanner
 - Better use this tool on VPS/RDP
 
 # VC Redist (optional)
-- Download(https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
+- [Download](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
 
 # PROS
 - Support big site-list maybe
