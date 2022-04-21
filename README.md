@@ -23,6 +23,10 @@ Random Shell Scanner
 # SUGGESTION
 - If u want suggestion for new update for this tools you can join our telegram channel: @raid_store
 
+# Update
+- Fixed title
+- Added time elapse
+
 # Contact me ?
 If you found bugs or any issue on this tools feel free to contact me!
 - Telegram: @soul_kings
